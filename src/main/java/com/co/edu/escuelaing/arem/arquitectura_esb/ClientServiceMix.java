@@ -22,8 +22,8 @@ import org.apache.camel.impl.DefaultCamelContext;
 public class ClientServiceMix {
     public static void main(String[] args) 
     {
-        ClientServiceMix ex = new ClientServiceMix();
-        ex.run();
+        ClientServiceMix cs = new ClientServiceMix();
+        cs.run();
     }
         
     public void run(){    
