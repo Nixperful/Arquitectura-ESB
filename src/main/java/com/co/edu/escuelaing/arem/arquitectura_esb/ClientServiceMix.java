@@ -17,7 +17,7 @@ import org.apache.camel.component.jms.JmsComponent;
 import org.apache.camel.impl.DefaultCamelContext;
 /**
  *
- * @author 2110432
+ * @author Nicolás Osorio arias
  */
 public class ClientServiceMix {
     public static void main(String[] args) 
